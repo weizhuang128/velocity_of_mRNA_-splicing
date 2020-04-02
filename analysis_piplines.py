@@ -2,7 +2,7 @@ import velocyto as vcy
 
 import numpy as np
 
-vlm = vcy.VelocytoLoom("MOH74-01-76-0.loom")
+vlm = vcy.VelocytoLoom("XXXXXXXXXXX.loom")
 
 
 vlm.normalize("S", size=True, log=True)
